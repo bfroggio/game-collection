@@ -82,13 +82,11 @@
 |Team Fortress 2|PC|Steam|
 |The Alto Collection|PC|Epic|
 |The Blue Flamingo|PC|Steam|
-|The Cycle Rogue Starter Pack|PC|Epic|
 |The Cycle|PC|Epic|
 |The Escapists 2|PC|Epic|
 |The Swapper|PC|Steam|
 |To the Moon|PC|Steam|
 |Tony Hawk's Pro Skater 1 + 2|PC|Epic|
-|Tony Hawk's™ Pro Skater™ 1 + 2    -|PC|Epic|
 |Torchlight II|PC|Epic|
 |Trackmania|PC|Epic|
 |Transistor|Switch|N/A|
