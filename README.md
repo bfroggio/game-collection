@@ -1,18 +1,18 @@
 # B-Froggio's Game Collection
 
-|Game Title|Platform|
-|---|---:|
-|Rocket League|PC|
+|Game Title|Platform|Service|
+|---|:---:|---:|
+|Rocket League|PC|Steam|
 |Elite Dangerous|PC|
 |Microsoft Flight Simulator|PC|
-|Fire Emblem: Three Houses|Switch|
-|Transistor|Switch|
+|Fire Emblem: Three Houses|Switch|N/A|
+|Transistor|Switch|N/A|
 |Assassin's Creed Odyssey|PC|
 |Assassin's Creed IV: Black Flag|Switch|
-|Tony Hawk's Pro Skater 1 + 2|PC|
-|Star Wars Jedi Knight II: Jedi Outcast|Switch|
-|Shadow of the Colossus|PS4 (PS+)|
-|So Let Us Melt|Switch|
-|World End Syndrome|Switch|
-|Minit|Switch|
-|Untitled Goose Game|Switch|
+|Tony Hawk's Pro Skater 1 + 2|PC|Epic|
+|Star Wars Jedi Knight II: Jedi Outcast|Switch|N/A|
+|Shadow of the Colossus|PS4|PlayStation Plus|
+|So Let Us Melt|Switch|N/A|
+|World End Syndrome|Switch|N/A|
+|Minit|Switch|N/A|
+|Untitled Goose Game|Switch|N/A|
