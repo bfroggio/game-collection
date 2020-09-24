@@ -13,7 +13,6 @@
 |1-6 Oozes in the Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
 |10 in 1 game-a-week bundle!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |10S|PC|itch.io (Bundle for Racial Justice and Equality)|
-|10S|PC|itch.io|
 |12 Labors|PC|itch.io (Bundle for Racial Justice and Equality)|
 |12 orbits|PC|itch.io (Bundle for Racial Justice and Equality)|
 |1365|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -55,7 +54,6 @@
 |A Normal Lost Phone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Plague Journal At The Ides of March, 2020 and other Pandemic Poetry|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Short Hike|PC|itch.io (Bundle for Racial Justice and Equality)|
-|A Short Hike|PC|itch.io|
 |A Snake's Tale|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Total War Saga: TROY|PC|Epic|
 |A Touch of Glamour|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -548,7 +546,6 @@
 |Fidelity|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fighting Monsters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Figment|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Figment|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Final Lap|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fire Emblem: Three Houses|Switch|N/A|
 |Fish Fly Fever|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -809,7 +806,6 @@
 |Just Rain|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Just one, must choose|PC|itch.io (Bundle for Racial Justice and Equality)|
 |KIDS|PC|itch.io (Bundle for Racial Justice and Equality)|
-|KIDS|PC|itch.io|
 |KISSING COMRADES|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kaiju Big Battel: Fighto Fantasy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kalling Kingdom|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -981,7 +977,6 @@
 |Moss Creeps, Stone Crumbles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mossy Mechanics!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mu Cartographer|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Mu Cartographer|PC|itch.io|
 |Multi Platformer Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mutiny Island|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Brain Is A Stick Of Butter|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1040,7 +1035,6 @@
 |Nowhere Kingdom|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Nuclear Throne|PC|Steam|
 |Nuclear Throne|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Nuclear Throne|PC|itch.io|
 |Nuvoloso|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Nótt & Dagr|PC|itch.io (Bundle for Racial Justice and Equality)|
 |OMEGANAUT|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1060,7 +1054,6 @@
 |Okay, Hero|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Old Man Character Sound Effects|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Old Man's Journey|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Old Man's Journey|PC|itch.io|
 |Ollie & Bollie: Outdoor Estate|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ominous!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |OmniMyth Fables|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1096,7 +1089,6 @@
 |Over the Moon|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Overcooked|PC|Epic|
 |Overland|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Overland|PC|itch.io|
 |Overwatch|PS4|Physical|
 |Overwatch|Switch|N/A|
 |Oxenfree|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1722,7 +1714,6 @@
 |Utopias: Navigating Without Coordinates|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VAMPUNKS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VEKTOR 2089|PC|itch.io (Bundle for Racial Justice and Equality)|
-|VEKTOR 2089|PC|itch.io|
 |VIDEGOAME|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VIDEOSTORE - A Monster of the Week Double Feature|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VIRTUA BLINDS|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1803,7 +1794,6 @@
 |Wishing Sarah|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Witch Thief|PC|itch.io (Bundle for Racial Justice and Equality)|
 |WitchWay|PC|itch.io (Bundle for Racial Justice and Equality)|
-|WitchWay|PC|itch.io|
 |Witchball|PC|itch.io (Bundle for Racial Justice and Equality)|
 |With These Phantom Hands|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Without Escape|PC|itch.io (Bundle for Racial Justice and Equality)|
