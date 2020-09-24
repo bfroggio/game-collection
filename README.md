@@ -2,8 +2,10 @@
 
 |Game Title|Platform|Service|
 |---|:---:|---:|
+|10S|PC|itch.io|
 |20XX|PC|Epic|
 |3 Out of 10 Ep 1 Welcome to Shovelworks|PC|Epic|
+|A Short Hike|PC|itch.io|
 |A Total War Saga: TROY|PC|Epic|
 |AER Memories of Old|PC|Epic|
 |ARK: Survival Evolved|PC|Epic|
@@ -57,6 +59,7 @@
 |Hue|PC|Epic|
 |Into The Breach|PC|Epic|
 |JUST DANCE 2020|Switch|N/A|
+|KIDS|PC|itch.io|
 |Killing Floor 2|PC|Epic|
 |Kingdom Hearts HD 1.5 + 2.5 ReMIX|PS4|Physical|
 |Kingdom Hearts HD 2.8: Final Chapter Prologue|PS4|Physical|
@@ -75,6 +78,7 @@
 |Mirror's Edge|PC|Steam|
 |Monaco|PC|Steam|
 |Moonlighter|Switch|N/A|
+|Mu Cartographer|PC|itch.io|
 |My Friend Pedro: Blood Bullets Bananas|Switch|N/A|
 |Next Up Hero|PC|Epic|
 |Ni No Kuni II Revenant Kingdom|PS4|Physical|
@@ -82,7 +86,10 @@
 |Nintendo Labo Toy-Con (O2)|Switch|Physical|
 |No Man's Sky|PS4|Physical|
 |Nuclear Throne|PC|Steam|
+|Nuclear Throne|PC|itch.io|
+|Old Man's Journey|PC|itch.io|
 |Overcooked|PC|Epic|
+|Overland|PC|itch.io|
 |Overwatch|PS4|Physical|
 |Overwatch|Switch|N/A|
 |Pathway|PC|Epic|
@@ -151,6 +158,7 @@
 |Uncharted The Nathan Drake Collection|PS4|Physical|
 |Undertale|PC|Steam|
 |Untitled Goose Game|Switch|N/A|
+|VEKTOR 2089|PC|itch.io|
 |WORLDEND SYNDROME|Switch|N/A|
 |Wallpaper Engine|PC|Steam|
 |War Thunder|PC|Steam|
@@ -159,7 +167,10 @@
 |Watch Dogs 2|PC|Epic|
 |Where The Water Tastes Like Wine|PC|Epic|
 |Wilmot's Warehouse|PC|Epic|
+|WitchWay|PC|itch.io|
 |Wizard of Legend|Switch|N/A|
 |World End Syndrome|Switch|N/A|
 |World of Warships|PC|Steam|
 |Year Walk|PC|Steam|
+|kraken's curse|PC|itch.io|
+|soko loco|PC|itch.io|
