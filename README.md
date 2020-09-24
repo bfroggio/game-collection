@@ -106,6 +106,7 @@
 |Rise of the Tomb Raider|PS4|Physical|
 |Rocket League|PC|Steam|
 |Rocket League|Switch|N/A|
+|RollerCoaster Tycoon 3 Complete Edition|PC|Epic|
 |SAMURAI SHODOWN NEOGEO COLLECTION|PC|Epic|
 |STAR WARS Episode 1: Racer|Switch|N/A|
 |STAR WARS Jedi Knight: Jedi Academy|PC|Steam|
