@@ -39,6 +39,7 @@
 |9 Till Void|PC|itch.io (Bundle for Racial Justice and Equality)|
 |99¢ Chamber of Death|PC|itch.io (Bundle for Racial Justice and Equality)|
 |>>at least you're not alone|PC|itch.io (Bundle for Racial Justice and Equality)|
+|>observer_|PC|Amazon Games|
 |A Day in the Woods|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Duet of Steel|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Game of Changes|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -129,6 +130,7 @@
 |Arigatou, Ningen-san!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Arlo The Rabbit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Art Telephone|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Art of Fighting 2|PC|Amazon Games|
 |Artifacts of the Tarot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |As The World Ends...|PC|itch.io (Bundle for Racial Justice and Equality)|
 |As We Know It|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -150,6 +152,7 @@
 |Attrition: Tactical Fronts|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Audiosurf|PC|Steam|
 |Aurora|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Autonauts|PC|Amazon Games|
 |Autumn|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Avery Chase - EP1 : Apparition|PC|itch.io (Bundle for Racial Justice and Equality)|
 |B.O.O.M. - You Win [Early Access]|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -174,6 +177,7 @@
 |Bandit Hideout Paper Miniatures Set|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Barony|PC|Epic|
 |Barrel Roll|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Baseball Stars 2|PC|Amazon Games|
 |BasketBelle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bazookrash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear Acquaintances|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -206,6 +210,8 @@
 |Blast Rush|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blaster Bunny +|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blasting Agent: Ultimate Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Blazing Chrome|PC|Amazon Games|
+|Blazing Star|PC|Amazon Games|
 |Bleed 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bleed|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blind Men|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -236,6 +242,7 @@
 |Breakout Poetry|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brendan Keogh's Putting Challenge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brick Breaker Remix|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Bridge Constructor|PC|Amazon Games|
 |Brinkwood - The Blood of Tyrants - Playtest Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Broken Minds|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brushwood Buddies|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -307,6 +314,7 @@
 |Choice Chamber|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Chook & Sosig: Walk the Plank|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Christmas Cats Revenge|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Chroma Squad|PC|Amazon Games|
 |Chronicles of The Spacejammer, Vol 1: 36 Spacejamming Backgrounds for Troika!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cinco Paus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Circa Infinity|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -378,6 +386,7 @@
 |Dancing with Demons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Danger Crew|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Danger Zone Friends|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dark Devotion|PC|Amazon Games|
 |Darkest Wave|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dauntless|Switch|N/A|
 |David|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -385,9 +394,12 @@
 |Dawndusk Dream Sewer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Daydreamour|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dead 4 Dress|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dead Age|PC|Amazon Games|
 |Dead Friend: A Game of Necromancy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dead Pixels: The 8-bit zombie sim.|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dead Vinland|PC|Amazon Games|
 |Dear Mariko|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dear, Esther Landmark Edition|PC|Amazon Games|
 |Death Game+|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Death and Taxes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Death's Life|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -447,6 +459,7 @@
 |Draw Nine|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dream Aflame|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dream At High Noon|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dream Daddy|PC|Amazon Games|
 |Dreaming Sarah|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dreaming the Devil|PC|itch.io (Bundle for Racial Justice and Equality)|
 |DriftKing 2D|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -460,6 +473,7 @@
 |Dumpster Fire|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dungeon Hero Volume 1: Starter Set|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dungeon Nightmares II - The Memory|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dungeon Rushers|PC|Amazon Games|
 |Dungeon Tileset - Top Down RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
 |DungeonGameAssetPack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dungeons & Lesbians|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -485,6 +499,7 @@
 |Ecchi Sketch: Draw Cute Girls Every Day! (All Ages Ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Echoes of the Fey Episode 1: The Fox's Trail|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Echoes|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Effie|PC|Amazon Games|
 |Eizoku|PC|itch.io (Bundle for Racial Justice and Equality)|
 |El Interrogatorio|PC|itch.io (Bundle for Racial Justice and Equality)|
 |El Tango de la Muerte|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -546,6 +561,7 @@
 |Far from Noise|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Farming RPG GUI|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fat Bear Week|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Fatal Fury Special|PC|Amazon Games|
 |Fate Tectonics|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fateful Lore|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Feathers|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -574,6 +590,7 @@
 |Forever Lost: Episode 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Forever Lost: Episode 3|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Forgiveness : Escape Room|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Forsaken Remastered|PC|Amazon Games|
 |Fortnite|Switch|N/A|
 |Fortune-499|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fossil Echo|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -610,6 +627,7 @@
 |Games Without Frontiers 2 OST|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ganbare! Super Strikers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Garden Match|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Garou: Mark of the Wolves|PC|Amazon Games|
 |Garrison Gauntlet|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Garrote Couture|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Gataela|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -649,6 +667,7 @@
 |Grievance|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Grime & Gaslight|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Grindhouse Games Volume I|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Grip|PC|Amazon Games|
 |Guacamelee! Gold Edition|PC|Steam|
 |Guacamelee! Soundtrack|PC|Humble Bundle|
 |Guide of the Butterfly|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -768,6 +787,7 @@
 |Immanence|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Imperishable Memories|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Impulse Drive|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Impulsion|PC|Amazon Games|
 |In Another Life|PC|itch.io (Bundle for Racial Justice and Equality)|
 |In My Friend Carrie's Car|PC|itch.io (Bundle for Racial Justice and Equality)|
 |In Space, No One Can Hear You Feel|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -791,6 +811,7 @@
 |Intrepid|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Inverness Nights|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Iron, Flax, & Bone|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Ironclad|PC|Amazon Games|
 |Ironsworn: Delve|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Isolation Story|PC|itch.io (Bundle for Racial Justice and Equality)|
 |It's Dangerous To Go Alone — Take This|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -802,6 +823,7 @@
 |Jabberwocky|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Jam and the Mystery of the Mysteriously Spooky Mansion|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Japanese City Game Assets|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Jay and Silent Bob: Mall Brawl|PC|Amazon Games|
 |Jazzy Bouncer Soundtrack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Jet Buster|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Jiayou MemoVirus|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -825,6 +847,7 @@
 |Kenney Game Assets 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |KeyCars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Killing Floor 2|PC|Epic|
+|King of the Monsters|PC|Amazon Games|
 |Kingdom Hearts HD 1.5 + 2.5 ReMIX|PS4|Physical|
 |Kingdom Hearts HD 2.8: Final Chapter Prologue|PS4|Physical|
 |Kingdom Ka|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -839,6 +862,7 @@
 |Koboldly Go!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Koshka's Kofe|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kubyx|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Kunai|PC|Amazon Games|
 |LA Hallucination|PC|itch.io (Bundle for Racial Justice and Equality)|
 |LAZA KNITEZ!!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |LEGO MARVEL Super Heroes|PC|Steam|
@@ -857,6 +881,7 @@
 |Last Word|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lava Caves - Fantasy Pixel Art Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Layabouts and Degens|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Layers of Fear|PC|Amazon Games|
 |LazerGrrl|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lazy Galaxy: Rebel Story|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Learn Japanese To Survive: Kanji Combat OST|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -917,6 +942,7 @@
 |MYNT - An RPG System|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ma'amser, Saan Po Kayo?|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mable & The Wood|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Mad Tracks|PC|Amazon Games|
 |Mage Against the Machine|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Magic Trick|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Make It Last|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -933,16 +959,20 @@
 |Mastermind Classic|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mausritter: Honey in the Rafters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mausritter|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Max: The Curse of Brotherhood|PC|Amazon Games|
 |May Project Na Naman Si Kapitan?|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Me and (My) Cat's Castle -わたしと(わたしの)ねこのしろ-|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mech_Romancer Charity Bundle 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Medieval Town and Country + Interiors Bundle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Meditation 5|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Meeting in the Flesh|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Melbits World|PC|Amazon Games|
 |Memoir En Code: Reissue|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mendel|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Meridian|PC|itch.io (Bundle for Racial Justice and Equality)|
 |MetaWare High School (Demo)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Metal Slug 2|PC|Amazon Games|
+|Metal Slug 3|PC|Amazon Games|
 |Metamorphabet|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metori|PC|itch.io (Bundle for Racial Justice and Equality)|
 |MewnBase|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -984,6 +1014,7 @@
 |Moonstone Deep|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Moss Creeps, Stone Crumbles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mossy Mechanics!|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Mr. Shifty|PC|Amazon Games|
 |Mu Cartographer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Multi Platformer Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mutiny Island|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1015,6 +1046,7 @@
 |Neon Valley: Revenge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Nepenthe|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Nest Lander|PC|itch.io (Bundle for Racial Justice and Equality)|
+|NeuroVoider|PC|Amazon Games|
 |Never Knows Best: Ashcan Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
 |New Ice York|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Newfound Courage|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1091,6 +1123,7 @@
 |Ouroboros: The Sacrifice|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Out from the Shadows (Forking Paths #3)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Out the Window: a car trip sim|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Outcast Second Contact|PC|Amazon Games|
 |Outdoor Adventurer Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Outpost Horizon Station|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Over Run|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1100,6 +1133,7 @@
 |Overwatch|PC|Blizzard|
 |Overwatch|PS4|Physical|
 |Overwatch|Switch|N/A|
+|Oxenfree|PC|Amazon Games|
 |Oxenfree|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PADager|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PAGAN: Autogeny|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1151,6 +1185,7 @@
 |Picking Up the Pieces|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Picky Pop|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pictassembler|PC|itch.io (Bundle for Racial Justice and Equality)|
+|PictoQuest|PC|Amazon Games|
 |Pikuniku|PC|Epic|
 |Pikuniku|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pillars of Dust|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1205,9 +1240,12 @@
 |Project Galileo: A One-Shot for Trophy Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Project Kat|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Project MALLOW|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Project Warlock|PC|Amazon Games|
 |Propagating Love|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PuPaiPo Space Deluxe|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pulstario|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Pulstar|PC|Amazon Games|
+|Pumped BMX Pro|PC|Amazon Games|
 |Pumpkin Peril|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pumpking|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Purple Chicken Spaceman|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1218,6 +1256,7 @@
 |Pyramidal Break™|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pyramid|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pyre|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Q.U.B.E. 2|PC|Amazon Games|
 |QLRZ|PC|itch.io (Bundle for Racial Justice and Equality)|
 |QUACK ATTACK 1985: TURBO DX EDITION|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Qavo|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1258,6 +1297,7 @@
 |Resistance is Fruitile|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Retrace|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Retromancer|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Reus|PC|Amazon Games|
 |Rex: Another Island|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ring Fit Adventure|Switch|Physical|
 |Ring of Fire Prologue|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1290,9 +1330,11 @@
 |SAI|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SAMURAI SHODOWN NEOGEO COLLECTION|PC|Epic|
 |SC: Monster Pack 1 - DELUXE EDITION|PC|itch.io (Bundle for Racial Justice and Equality)|
+|SEUM: Speedrunners from Hell|PC|Amazon Games|
 |SHNIPERS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SINS - The RPG - PDF|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SNES Original Soundtrack Small Collection|PC|itch.io (Bundle for Racial Justice and Equality)|
+|SNK 40th Anniversary Collection|PC|Amazon Games|
 |SOLACEBOUND|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SOMOS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SOS: SPECIAL OPERATIVE STORIES|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1308,9 +1350,12 @@
 |STOWAWAY|PC|itch.io (Bundle for Racial Justice and Equality)|
 |STRAWBERRY CUBES|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SUPER CUBE ATTACK|PC|itch.io (Bundle for Racial Justice and Equality)|
+|SUPERHOT|PC|Amazon Games|
 |SYSCRUSHER|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sagebrush|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Salvage Solitude 8140|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Samurai Shodown II|PC|Amazon Games|
+|Samurai Shodown V Special|PC|Amazon Games|
 |Sanctum 2|PC|Steam|
 |Sandcastles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sanguine Sanctum|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1340,13 +1385,16 @@
 |Seduce Me The Complete Story|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Self.destroy()|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Semblance|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sengoku 3|PC|Amazon Games|
 |Serre|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Served|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Setealém: The Seventh Beyond|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sewer Rave|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Shadow Tactics: Blades of the Shogun|PC|Amazon Games|
 |Shadow of the Colossus|PS4|PlayStation Plus|
 |Shadowcut|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shadowrun Collection|PC|Epic|
+|Shaq Fu 2|PC|Amazon Games|
 |Shattered|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sheep Dreams Are Made of This|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sheepless Nights (Math cardgame)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1354,6 +1402,8 @@
 |Ships That Pass|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shipwreck|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shn!p|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Shock Troopers: 2nd Squad|PC|Amazon Games|
+|Shock Troopers|PC|Amazon Games|
 |Shoot Shoot Mega Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Short Film|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shovel Knight: Treasure Trove|Switch|N/A|
@@ -1364,6 +1414,7 @@
 |Signs of the Sojourner|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Silicon Zeroes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Silk|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Silver Chains|PC|Amazon Games|
 |Silver Grapple|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SilverQuest Gaiden|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Simply The Best|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1445,6 +1496,7 @@
 |Steam Marines 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Steam Marines|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Steamed Hams|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Steel Rats|PC|Amazon Games|
 |Stellaxy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Stick It To The Man!|PC|Epic|
 |Stick Nightmare|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1483,6 +1535,7 @@
 |Superbrothers: Sword & Sworcery EP|PC|Epic|
 |Superbrothers: Sword & Sworcery EP|PC|Steam|
 |Superhuman Industrial and Immaterial, Incorporated|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Surf World Series|PC|Amazon Games|
 |Surprise Mechanic: The Gaming Trivia|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Surreal Estate|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sushi Master VR -  寿司職人VR -|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1514,6 +1567,7 @@
 |Tacoma|PC|Epic|
 |Tales Across Time|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tales From Windy Meadow|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tales from Candlekeep: Tomb of Annihilation|PC|Amazon Games|
 |Tales from the Road|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Talk To Me|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tallowmere|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1523,6 +1577,7 @@
 |Tape|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Task Force Kampas|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Team Fortress 2|PC|Steam|
+|Tempest|PC|Amazon Games|
 |Temple Scramble|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ten People You Meet In The Undergarden|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Terri-Fried|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1569,6 +1624,7 @@
 |The Fall of Lazarus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Festival of Deep Winter|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Finest (there will be no music)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Flame In the Flood|PC|Amazon Games|
 |The Floor is Jelly|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Fool's Journey|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Frost Papers - Ten Games to Play in the Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1585,10 +1641,17 @@
 |The House on Holland Hill|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Importance of Being Convergent|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Indifferent Wonder of an Edible Place|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Inner World|PC|Amazon Games|
+|The King of Fighters '98 Ultimate Match Final Edition|PC|Amazon Games|
+|The King of Fighters 2000|PC|Amazon Games|
+|The King of Fighters 2002 Unlimited Match|PC|Amazon Games|
+|The King of Fighters 2002|PC|Amazon Games|
+|The King of Fighters 97 Global Match|PC|Amazon Games|
 |The King's Bird|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Land Whispers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Land of Glass|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Land of Pán-gǔ 盤古之地|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Last Blade 2|PC|Amazon Games|
 |The Last Librarian|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Last of Us Remastered|PS4|Physical|
 |The Legend of Zelda: Breath of the Wild|Switch|N/A|
@@ -1680,6 +1743,7 @@
 |Tiny Adventure Pack Plus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tiny Dangerous Dungeons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tiny God: A Tiny Game of Two-Minute Mindfulness|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tiny Troopers Joint Ops|PC|Amazon Games|
 |To Be a HerpWitch|PC|itch.io (Bundle for Racial Justice and Equality)|
 |To the Moon|PC|Steam|
 |Toaster Jam|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1704,12 +1768,15 @@
 |Transmission Burst: Volume 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Trash wars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Trawl|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Treachery In Beatdown City|PC|Amazon Games|
 |Tricksters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Troika! Numinous Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Truberbrook|PC|Amazon Games|
 |True Believer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Try|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Turn Chase|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Turn-Based Champion|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Turok 2|PC|Amazon Games|
 |Tutorial: Versatile InDesign Book Covers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Two Years of Mini-RPGs, 2017—2019|PC|itch.io (Bundle for Racial Justice and Equality)|
 |U.F.O - Unfortunately Fortunate Organisms|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1734,6 +1801,7 @@
 |VIRTUA BLINDS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VISIGOTHS vs MALL GOTHS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VULTURES|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Vane|PC|Amazon Games|
 |Vaporwave Wallpaper Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Vegetables Deluxe C64|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Veiled|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1754,6 +1822,7 @@
 |Voles of the Dusk|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Volo Airsport|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VoltAge:Genesis|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Vostok Inc.|PC|Amazon Games|
 |Voxatron|PC|Humble Bundle|
 |Voxel Currency|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Voyageur|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1778,6 +1847,7 @@
 |Warframe|PC|Steam|
 |Warframe|Switch|N/A|
 |Warm Then Hot|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Warsaw|PC|Amazon Games|
 |Watch Dogs 2|PC|Epic|
 |Watch Me Jump|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wave to the People|PC|itch.io (Bundle for Racial Justice and Equality)|
