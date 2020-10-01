@@ -1,10 +1,12 @@
+---
+layout: home
+---
+
 # B-Froggio's Game Collection
 
 (I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass).)
 
-<div class="datatable-begin"></div>
-
-|Game Title|Platform|Service|
+|Game Title|Platform|Service/Type|
 |---|:---:|---:|
 |"Land of Pán-gǔ" Care Package 盤古之地禮物包|PC|itch.io (Bundle for Racial Justice and Equality)|
 |"your sister's drown'd, laertes"|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -186,7 +188,7 @@
 |Bazookrash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear Acquaintances|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear-ly There|PC|itch.io (Bundle for Racial Justice and Equality)|
-|BearFX Explosions | Pixel VFX Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
+|BearFX Explosions - Pixel VFX Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Beast Dream|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Beatbuddy: Tale of the Guardians|PC|Steam|
 |Bedtime Bestiary|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -627,7 +629,7 @@
 |GRAVITY FIGHTERS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GRAVITY RUSH™ 2 DEMO|PS4|Digital|
 |GRINDSTONE (Original Game Soundtrack)|PC|itch.io (Bundle for Racial Justice and Equality)|
-|GRIPHOTIKON | BOOK 1|PC|itch.io (Bundle for Racial Justice and Equality)|
+|GRIPHOTIKON - BOOK 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GUNPIG: Firepower For Hire|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Galactic Wars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Galaxy Goons|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -644,7 +646,7 @@
 |Gataela|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Geese At The Beach: Creatures Tasked With Collecting Things For The Feathery Overlord|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Generic RPG Starter Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Gentleman Bandit | Western Cantos I|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Gentleman Bandit - Western Cantos I|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Germination|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Get Your Game On!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ghost Grab 3000|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1652,7 +1654,7 @@
 |The Colors of Magic|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Cool Zone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Corrupted Kingdom|PC|itch.io (Bundle for Racial Justice and Equality)|
-|The Crash of 20*6 | A sci-fi setting supplement|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Crash of 20*6 - A sci-fi setting supplement|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Crew: Ultimate Edition|PS4|Physical|
 |The Crew® 2 Beta|PS4|Digital|
 |The Curse of Dread Pirate Zarr|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1861,7 +1863,7 @@
 |Vignettes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Village Monsters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Vilmonic|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Vincent: The Secret of Myers | 文森：梅尔斯的秘密|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Vincent: The Secret of Myers - 文森：梅尔斯的秘密|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Vision Soft Reset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Visual Out|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Viv and Bob|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -2040,5 +2042,3 @@
 |樺ヶ原脱出 - Escape from Kabagahara|PC|itch.io (Bundle for Racial Justice and Equality)|
 |歸妹 Returning Maiden|PC|itch.io (Bundle for Racial Justice and Equality)|
 |盆栽 カレンダー (BONSAI CALENDAR)|PC|itch.io (Bundle for Racial Justice and Equality)|
-
-<div class="datatable-end"></div>
