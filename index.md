@@ -1003,7 +1003,6 @@ layout: home
 |Micro Mages|PC|itch.io (Bundle for Racial Justice and Equality)|
 |MicroHorrorArcade Trilogy I - Andy's Story|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Micron|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Microsoft Flight Simulator|PC|
 |MidBoss|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Midnight Manor|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Miles Infernum|PC|itch.io (Bundle for Racial Justice and Equality)|
