@@ -4,7 +4,7 @@ layout: home
 
 # B-Froggio's Game Collection
 
-(I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass).)
+I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in addition to the games below.
 
 |Game Title|Platform|Service/Type|
 |---|:---:|---:|
