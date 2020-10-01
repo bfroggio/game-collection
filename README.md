@@ -1,5 +1,7 @@
 # B-Froggio's Game Collection
 
+(I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass).)
+
 |Game Title|Platform|Service|
 |---|:---:|---:|
 |"Land of Pán-gǔ" Care Package 盤古之地禮物包|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -117,6 +119,7 @@
 |Antichamber|PC|Steam|
 |Antigas Constelações (sobre a Vila Itororó)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Antistatic|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Apex Legends|PC|Origin|
 |Apollo Visualizer Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Apotheosis|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Apple Quest Monsters DX|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -129,6 +132,7 @@
 |Artifacts of the Tarot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |As The World Ends...|PC|itch.io (Bundle for Racial Justice and Equality)|
 |As We Know It|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Aseprite|PC|Humble Bundle|
 |Asphalt 9: Legends|Switch|N/A|
 |Assassin's Creed III Remastered|PC|Steam|
 |Assassin's Creed Odyssey|PC|Steam|
@@ -472,7 +476,7 @@
 |ERRANCE|PC|itch.io (Bundle for Racial Justice and Equality)|
 |ETHEREAL|PC|itch.io (Bundle for Racial Justice and Equality)|
 |EVADER|PC|itch.io (Bundle for Racial Justice and Equality)|
-|EVE OnlineFEZ|PC|Steam|
+|EVE Online|PC|Steam|
 |EVERYONE ON THE MOON IS ESSENTIAL PERSONNEL|PC|itch.io (Bundle for Racial Justice and Equality)|
 |EXTRACAUSAL|PC|itch.io (Bundle for Racial Justice and Equality)|
 |EXTREME MEATPUNKS FOREVER|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -517,7 +521,10 @@
 |Extended monster pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Extradimensional Friends|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Extreme Mining|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Eye Candy 2 Artpack|PC|Humble Bundle|
 |Eye of Ra|PC|itch.io (Bundle for Racial Justice and Equality)|
+|FEZ Soundtrack|PC|Humble Bundle|
+|FEZ|PC|Steam|
 |FIFA 15|PS4|Physical|
 |FIST|PC|itch.io (Bundle for Racial Justice and Equality)|
 |FLAMBERGE|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -613,7 +620,7 @@
 |Get Your Game On!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ghost Grab 3000|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ghost Story|PC|itch.io (Bundle for Racial Justice and Equality)|
-|Giana Sisters: Twitsted Dreams|PC|Steam|
+|Giana Sisters: Twisted Dreams|PC|Steam|
 |Giant's Chalice|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Gladiabots|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Glitch Brushes: Dithering & Text|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -643,6 +650,7 @@
 |Grime & Gaslight|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Grindhouse Games Volume I|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Guacamelee! Gold Edition|PC|Steam|
+|Guacamelee! Soundtrack|PC|Humble Bundle|
 |Guide of the Butterfly|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Guidebook to the Viridian Maw (Forking Paths #1)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Guitar Fretter|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1089,6 +1097,7 @@
 |Over the Moon|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Overcooked|PC|Epic|
 |Overland|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Overwatch|PC|Blizzard|
 |Overwatch|PS4|Physical|
 |Overwatch|Switch|N/A|
 |Oxenfree|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1098,6 +1107,7 @@
 |PARANOIHELL|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PARTICLE MACE|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PHN-HOME|PC|itch.io (Bundle for Racial Justice and Equality)|
+|PICO-8|PC|Humble Bundle|
 |PICO-8|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PIXEL ART METROIDVANIA ASSET PACK|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PIXEL FANTASY RPG ICONS|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1132,6 +1142,7 @@
 |Pet the Pup at the Party|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Petal Paladins!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Petty Puny Planet|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Phantasy Star Online 2|PC|Microsoft|
 |Philip K. Dick's Tony and the Beetles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Phoenix Heavy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Photoshop Inkers|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1140,6 +1151,7 @@
 |Picking Up the Pieces|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Picky Pop|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pictassembler|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Pikuniku|PC|Epic|
 |Pikuniku|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pillars of Dust|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pin Puck|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1254,6 +1266,7 @@
 |Rising Dusk|PC|itch.io (Bundle for Racial Justice and Equality)|
 |River Tiles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Rock n' Rush: Battle Racing|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Rocket Arena|PC|Origin|
 |Rocket League|PC|Steam|
 |Rocket League|Switch|N/A|
 |Rod, Reel, & Fist|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1317,6 +1330,7 @@
 |Scrapper|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Scratch's Sc0re: Hellish Descent|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Scratch's Sc0re|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sea of Thieves|PC|Microsoft|
 |Season's Beatings|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Seco Creek Vigilance Committee|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Secret Ingredients|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1473,6 +1487,7 @@
 |Surreal Estate|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sushi Master VR -  寿司職人VR -|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sverdheim|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Swarm Racer 3000|PC|Humble Bundle|
 |Sweet Volley High (All Ages ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Switch 'N' Shoot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Swords Pack x6|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1739,6 +1754,7 @@
 |Voles of the Dusk|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Volo Airsport|PC|itch.io (Bundle for Racial Justice and Equality)|
 |VoltAge:Genesis|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Voxatron|PC|Humble Bundle|
 |Voxel Currency|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Voyageur|PC|itch.io (Bundle for Racial Justice and Equality)|
 |WAR RIG: A VESSEL RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
