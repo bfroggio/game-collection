@@ -2,8 +2,6 @@
 
 (I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass).)
 
-<div class="datatable-begin"></div>
-
 |Game Title|Platform|Service|
 |---|:---:|---:|
 |"Land of Pán-gǔ" Care Package 盤古之地禮物包|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -2040,5 +2038,3 @@
 |樺ヶ原脱出 - Escape from Kabagahara|PC|itch.io (Bundle for Racial Justice and Equality)|
 |歸妹 Returning Maiden|PC|itch.io (Bundle for Racial Justice and Equality)|
 |盆栽 カレンダー (BONSAI CALENDAR)|PC|itch.io (Bundle for Racial Justice and Equality)|
-
-<div class="datatable-end"></div>
