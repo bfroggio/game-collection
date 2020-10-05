@@ -1385,6 +1385,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |STAR WARS: Knights of the Old Republic|PC|Steam|
 |STAR WARS™ Battlefront™ II|PS4|Digital|
 |STAR WARS™ Battlefront™ Season Pass|PS4|Digital|
+|STAR WARS™: Squadrons|PC|Epic|
 |STARDROP|PC|itch.io (Bundle for Racial Justice and Equality)|
 |STARSHIP: A VESSEL RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
 |STARWHAL|PC|Steam|
