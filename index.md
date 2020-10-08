@@ -69,6 +69,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |A Warm and Pleasant Hum: A One-Shot for Trophy Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Wish Upon A Star|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A e r o c r a f t|PC|itch.io (Bundle for Racial Justice and Equality)|
+|ABZU|PC|Epic|
 |ACIDTRIP|PC|itch.io (Bundle for Racial Justice and Equality)|
 |ADLENGINE - Roleplay / Text Adventure Engine|PC|itch.io (Bundle for Racial Justice and Equality)|
 |AER Memories of Old|PC|Epic|
@@ -395,6 +396,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Danger Zone Friends|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dark Devotion|PC|Amazon Games|
 |Darkest Wave|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Darkside Detective|PC|Amazon Games|
 |Dauntless|Switch|Digital|
 |David|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dawn of a Soul|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1332,20 +1334,21 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Rise of the Tomb Raider|PS4|Digital|
 |Rise of the Tomb Raider|PS4|Physical|
 |Rising Dusk|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Rising Storm 2: Vietnam|PC|Epic|
 |River Tiles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Rock n' Rush: Battle Racing|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Rocket Arena|PC|Origin|
 |Rocket League - Batman v Superman: Dawn of Justice Car Pack|PS4|Digital|
 |Rocket League - Chaos Run|PS4|Digital|
 |Rocket League - DeLorean Time Machine|PS4|Digital|
-|Rocket League - Revenge of the Battle-Cars|PS4|Digital|
-|Rocket League - Supersonic Fury|PS4|Digital|
-|Rocket League|PC|Steam|
-|Rocket League|Switch|Digital|
 |Rocket League - Hot Wheels® Bone Shaker™|PS4|Digital|
 |Rocket League - Hot Wheels® Twin Mill™ III|PS4|Digital|
+|Rocket League - Revenge of the Battle-Cars|PS4|Digital|
+|Rocket League - Supersonic Fury|PS4|Digital|
 |Rocket League - The Fate of the Furious™ Ice Charger|PS4|Digital|
+|Rocket League|PC|Steam|
 |Rocket League|PS4|Digital|
+|Rocket League|Switch|Digital|
 |Rod, Reel, & Fist|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Rogue Rocks|PC|itch.io (Bundle for Racial Justice and Equality)|
 |RogueCraft Squadron|PC|itch.io (Bundle for Racial Justice and Equality)|
