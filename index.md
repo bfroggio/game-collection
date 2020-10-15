@@ -104,6 +104,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Alone in the Ancient City|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ambidangerous|PC|itch.io (Bundle for Racial Justice and Equality)|
 |American Election|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Amnesia: A Machine for Pigs|PC|Epic|
 |An Airport Game|PC|itch.io (Bundle for Racial Justice and Equality)|
 |An American Werewolf in LA (EN)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |An anthology of cozy RPGs|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -870,6 +871,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Kingdom Hearts HD 1.5 + 2.5 ReMIX|PS4|Physical|
 |Kingdom Hearts HD 2.8: Final Chapter Prologue|PS4|Physical|
 |Kingdom Ka|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Kingdom New Lands|PC|Epic|
 |Kings and Pigs - Source Godot Code|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kintsugi|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kirby Star Allies|Switch|Digital|
