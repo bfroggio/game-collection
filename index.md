@@ -649,6 +649,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Gataela|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Geese At The Beach: Creatures Tasked With Collecting Things For The Feathery Overlord|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Generic RPG Starter Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Genshin Impact|PC|miHoYo|
 |Gentleman Bandit - Western Cantos I|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Germination|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Get Your Game On!|PC|itch.io (Bundle for Racial Justice and Equality)|
