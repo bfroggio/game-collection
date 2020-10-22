@@ -355,6 +355,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Cosmic Rochambo|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cosmonaut|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Costume Fairy Adventures|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Costume Quest 2|PC|Epic|
 |Cotrio|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crashed Lander|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crate Punks|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -905,6 +906,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Last Word|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lava Caves - Fantasy Pixel Art Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Layabouts and Degens|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Layers of Fear 2|PC|Epic|
 |Layers of Fear|PC|Amazon Games|
 |LazerGrrl|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lazy Galaxy: Rebel Story|PC|itch.io (Bundle for Racial Justice and Equality)|
