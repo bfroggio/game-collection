@@ -408,6 +408,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Dead Friend: A Game of Necromancy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dead Pixels: The 8-bit zombie sim.|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dead Vinland|PC|Amazon Games|
+|Deadline: Director's Cut|PC|Amazon Games|
 |Dear Mariko|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dear, Esther Landmark Edition|PC|Amazon Games|
 |Death Game+|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -857,6 +858,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Just one, must choose|PC|itch.io (Bundle for Racial Justice and Equality)|
 |KIDS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |KISSING COMRADES|PC|itch.io (Bundle for Racial Justice and Equality)|
+|KONA|PC|Amazon Games|
 |Kaiju Big Battel: Fighto Fantasy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kalling Kingdom|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Karakuri-kun {A Japanese Folk Tale}|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1552,6 +1554,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Stellaxy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Stick It To The Man!|PC|Epic|
 |Stick Nightmare|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Stick it to the Man!|PC|Amazon Games|
 |Stoneblade|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Stophat|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Story Time Frames|PC|itch.io (Bundle for Racial Justice and Equality)|
