@@ -215,6 +215,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Black Heart|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blade-Kissed|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blades in the Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Blair Witch|PC|Epic|
 |Blast Rush|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blaster Bunny +|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blasting Agent: Ultimate Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -657,6 +658,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Get Your Game On!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ghost Grab 3000|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ghost Story|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Ghostbusters: The Video Game Remastered|PC|Epic|
 |Giana Sisters: Twisted Dreams|PC|Steam|
 |Giant's Chalice|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Gladiabots|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1725,6 +1727,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Night Fisherman|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Night Journey|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Novelist|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Occupation|PC|Amazon Games|
 |The Old Man + Extra chapter|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Page I Didn't Write|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Political Compass: Devil's Labyrinth|PC|itch.io (Bundle for Racial Justice and Equality)|
