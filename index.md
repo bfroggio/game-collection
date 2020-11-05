@@ -52,6 +52,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |A HUNDRED THOUSAND PLACES|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Hole New World|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Kishoutenketsu in the countryside|PC|itch.io (Bundle for Racial Justice and Equality)|
+|A Knight's Quest|PC|Amazon Games|
 |A Light Long Gone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Long Night In The Mech Bay|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Lullaby of Colors (now available for Oculus Quest too)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -159,6 +160,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Atomic Robo: The Roleplaying Game|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Attrition: Tactical Fronts|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Audiosurf|PC|Steam|
+|Aurion: Legacy of the Kori-Odan|PC|Amazon Games|
 |Aurora|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Autonauts|PC|Amazon Games|
 |Autumn|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -492,6 +494,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Dungeon Tileset - Top Down RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
 |DungeonGameAssetPack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dungeons & Lesbians|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dungeons 3|PC|Epic|
 |Dungeons of Loot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dusk Child|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dust: An Elysian Tail|PC|Steam|
@@ -551,6 +554,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Explobers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Extended monster pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Extradimensional Friends|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Extreme Exorcism|PC|Amazon Games|
 |Extreme Mining|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Eye Candy 2 Artpack|PC|Humble Bundle|
 |Eye of Ra|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -919,6 +923,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Legend of the Lost Dragons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lemon Grove|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lenna's Inception|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Lethis - Path of Progress|PC|Amazon Games|
 |Lew Pulsipher's Doomstar|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lieve Oma|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Life In Captivity|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1485,6 +1490,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Sleepaway|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Slime-San Arcade Music|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Smash the System|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Smoke and Sacrifice|PC|Amazon Games|
 |Snake Blocks|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Snapshot Shaders Pro (Unity)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |So Let Us Melt|Switch|Digital|
@@ -1873,6 +1879,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Verdant Skies|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Veritas|PC|itch.io (Bundle for Racial Justice and Equality)|
 |ViCam|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Victor Vran Overkill Edition|PC|Amazon Games|
 |Vienna Automobile Society|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Vignettes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Village Monsters|PC|itch.io (Bundle for Racial Justice and Equality)|
