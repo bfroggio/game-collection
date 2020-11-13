@@ -253,6 +253,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Breakout Poetry|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brendan Keogh's Putting Challenge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brick Breaker Remix|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Bridge Constructor: Medieval|PC|Amazon Games|
 |Bridge Constructor|PC|Amazon Games|
 |Brinkwood - The Blood of Tyrants - Playtest Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Broken Minds|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -656,6 +657,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Gataela|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Geese At The Beach: Creatures Tasked With Collecting Things For The Feathery Overlord|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Generic RPG Starter Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Genesis Alpha One Deluxe Edition|PC|Amazon Games|
 |Genshin Impact|PC|miHoYo|
 |Gentleman Bandit - Western Cantos I|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Germination|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1765,6 +1767,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Sword and the Slime|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Synth Convergence|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Testimony of Trixie Glimmer Smith|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Texorcist|PC|Epic|
 |The Three-Body Problem|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Tower: The Order of XII|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Trans Zone|PC|itch.io (Bundle for Racial Justice and Equality)|
