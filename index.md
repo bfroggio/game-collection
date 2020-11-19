@@ -526,6 +526,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Electric Ghosts|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Electric Zine Maker (a work in progress, be gentle, hug it often)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Elephant Hunter Hunter|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Elite Dangerous: Horizons|PC|Epic|
 |Elite Dangerous: Horizons|PC|Steam|
 |Elite Dangerous: Horizons|PS4|Digital|
 |Ellipses RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -840,6 +841,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Intrepid|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Inverness Nights|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Iron, Flax, & Bone|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Ironcast|PC|Amazon Games|
 |Ironclad|PC|Amazon Games|
 |Ironsworn: Delve|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Isolation Story|PC|itch.io (Bundle for Racial Justice and Equality)|
