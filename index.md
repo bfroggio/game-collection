@@ -956,6 +956,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Long Lost Boys of Nowhereland|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Loopy Lore|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Loot Rascals|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Lost Horizon|PC|Amazon Games|
 |Lost in Dark Halls (Forking Paths #2)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lost in the Grey|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Love Hues! [Full Game]|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1060,6 +1061,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Mossy Mechanics!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mr. Shifty|PC|Amazon Games|
 |Mu Cartographer|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Mud Runner|PC|Epic|
 |Multi Platformer Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mutiny Island|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Brain Is A Stick Of Butter|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1757,6 +1759,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Sleuth|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Space Between|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Spark of One|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Spectrum Retreat|PC|Amazon Games|
 |The Spirit of Small Gifts|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Stars Whisper|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Steadfast and the Rebellious|PC|itch.io (Bundle for Racial Justice and Equality)|
