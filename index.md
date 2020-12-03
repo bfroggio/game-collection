@@ -189,6 +189,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Barrel Roll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Baseball Stars 2|PC|Amazon Games|
 |BasketBelle|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Battlefield 3|PC|Origin|
 |Bazookrash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear Acquaintances|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear-ly There|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -306,6 +307,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Catlateral Damage|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cats are Liquid - A Better Place|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cats are Liquid - A Light in the Shadows|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Cave Story+|PC|Epic|
 |Cecconoid|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Celeste|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Celeste|Switch|Digital|
@@ -335,6 +337,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Clash of Coins|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Classic JRPG Music Pack // Medium Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Clean ATTACK!|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Close to the Sun|PC|Amazon Games|
 |Closed Fists|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Clouds of Fire: Blazing Skies|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cluster Gun|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -792,6 +795,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Hunter's Moon Remastered|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hyper Gauntlet: Legacy of Nozzlethruster III|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hyper Sentinel|PC|itch.io (Bundle for Racial Justice and Equality)|
+|HyperDot|PC|Amazon Games|
 |Hyperplex 3D|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hyperspace Dogfights|PC|itch.io (Bundle for Racial Justice and Equality)|
 |I Am|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1476,6 +1480,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Shrug Island - The Meeting|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shutter Stroll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sidewords|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sigma Theory: Global Cold War|PC|Amazon Games|
 |Signs of the Sojourner|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Silicon Zeroes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Silk|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1851,6 +1856,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Truberbrook|PC|Amazon Games|
 |True Believer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Try|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Turmoil|PC|Amazon Games|
 |Turn Chase|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Turn-Based Champion|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Turok 2|PC|Amazon Games|
@@ -1965,6 +1971,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |With These Phantom Hands|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Without Escape|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wizard Battle|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Wizard of Legend|PC|Amazon Games|
 |Wizard of Legend|Switch|Digital|
 |Wondee|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wooden Hearts|PC|itch.io (Bundle for Racial Justice and Equality)|
