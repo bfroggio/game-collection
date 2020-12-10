@@ -1242,6 +1242,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Pikuniku|PC|Epic|
 |Pikuniku|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pillars of Dust|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Pillars of Eternity - Definitive Edition|PC|Epic|
 |Pin Puck|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pixel Art Infinite Runner - Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pixel Art Medieval Fantasy Characters Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1862,6 +1863,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Turok 2|PC|Amazon Games|
 |Tutorial: Versatile InDesign Book Covers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Two Years of Mini-RPGs, 2017—2019|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tyranny - Gold Edition|PC|Epic|
 |U.F.O - Unfortunately Fortunate Organisms|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Un Pas Fragile|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Uncharted 4: A Thief's End|PS4|Physical|
@@ -1995,6 +1997,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Year after Year|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yi and the Thousand Moons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yokai Hunters Society|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Yooka Laylee|PC|Amazon Games|
 |You Died but a Necromancer revived you|PC|itch.io (Bundle for Racial Justice and Equality)|
 |You Have One Ability...The Ability To Fuck This Up!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Your Dead Friend|PC|itch.io (Bundle for Racial Justice and Equality)|
