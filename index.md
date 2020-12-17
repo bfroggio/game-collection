@@ -332,6 +332,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Chronicles of The Spacejammer, Vol 1: 36 Spacejamming Backgrounds for Troika!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cinco Paus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Circa Infinity|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Cities: Skylines|PC|Epic|
 |City - Game Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Clam Man|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Clash of Coins|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1997,6 +1998,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Year after Year|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yi and the Thousand Moons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yokai Hunters Society|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Yooka Laylee and the Impossible Lair|PC|Amazon Games|
 |Yooka Laylee|PC|Amazon Games|
 |You Died but a Necromancer revived you|PC|itch.io (Bundle for Racial Justice and Equality)|
 |You Have One Ability...The Ability To Fuck This Up!|PC|itch.io (Bundle for Racial Justice and Equality)|
