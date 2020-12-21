@@ -98,6 +98,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Alfal's Grove|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alien Life Lab|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alien Swam|PC|Steam|
+|Alien: Isolation|PC|Epic|
 |All Haze Eve|PC|itch.io (Bundle for Racial Justice and Equality)|
 |All You Can Eat|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alone With Your Ghost|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -428,6 +429,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Dee Dum (Computer)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Deep Forest - 16 Colour Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Deeper Into Space|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Defense Grid: The Awakening|PC|Epic|
 |Democratic Socialism Simulator|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Depth of Extinction|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Depths of Fear :: Knossos Soundtrack|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1136,6 +1138,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Octodad: Dadliest Catch|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Octodad|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Odd Realm|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Oddworld: New 'n' Tasty|PC|Epic|
 |OddyTree|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Of Bodies|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Oh Jeez, Oh No, My Rabbits Are Gone!!!|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1469,6 +1472,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Shattered|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sheep Dreams Are Made of This|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sheepless Nights (Math cardgame)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sheltered|PC|Amazon Games|
 |Shift|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ships That Pass|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Shipwreck|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1735,6 +1739,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Last Librarian|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Last of Us Remastered|PS4|Physical|
 |The Legend of Zelda: Breath of the Wild|Switch|Digital|
+|The Long Dark|PC|Epic|
 |The Lost Art of Innkeeping|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Love Balloon|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Maker's Eden|PC|itch.io (Bundle for Racial Justice and Equality)|
