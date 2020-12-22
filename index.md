@@ -1025,6 +1025,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Metal Slug 3|PC|Amazon Games|
 |Metamorphabet|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metori|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Metro: 2033 Redux|PC|Epic|
 |MewnBase|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Miasma Caves|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Michtim: Fluffy Adventures|PC|itch.io (Bundle for Racial Justice and Equality)|
