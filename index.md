@@ -1861,6 +1861,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Treachery In Beatdown City|PC|Amazon Games|
 |Tricksters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Troika! Numinous Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tropico 5|PC|Epic|
 |Truberbrook|PC|Amazon Games|
 |True Believer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Try|PC|itch.io (Bundle for Racial Justice and Equality)|
