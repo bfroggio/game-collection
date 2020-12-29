@@ -1079,6 +1079,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |My Friends And I Were Granted Three Wishes By A Cat Goddess And I Swear I Got Distracted When My Turn Came Around|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Haunted Doll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Jam|PC|itch.io (Bundle for Racial Justice and Equality)|
+|My Time at Portia|PC|Epic|
 |My Way|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Welcomed Guest|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Myth Bearer|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1110,6 +1111,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |NiNi|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Nigel|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Night in the Storm|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Night in the Woods|PC|Epic|
 |Night in the Woods|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Night in the Woods|Switch|Digital|
 |Nina Aquila: Legal Eagle, Chapter II: "Broken Wings"|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1522,6 +1524,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Soldier of Fortune|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Solipstry|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Solitaire|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Solitairica|PC|Epic|
 |Soma Spirits: Rebalance|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Some Like It Hot: Chapter 0|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Some Small Games|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1589,6 +1592,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Stophat|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Story Time Frames|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Story of Seasons|3DS|Physical|
+|Stranded Deep|PC|Epic|
 |Stranger Things 3: The Game|PC|Epic|
 |Strike! RPG: Tactical Combat and Heedless Adventure|PC|itch.io (Bundle for Racial Justice and Equality)|
 |String Tyrant|PC|itch.io (Bundle for Racial Justice and Equality)|
