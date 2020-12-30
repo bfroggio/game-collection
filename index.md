@@ -204,6 +204,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Behind the Masc|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Believe|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Belong|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Beneath a Steel Sky|PC|GOG|
 |Beneath the Canals|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Benjamin of Blackstone Edge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Best Garden|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -478,6 +479,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |DragonRuby Game Toolkit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dragondot 3|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dragonhearts|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dragonsphere|PC|GOG|
 |Drake|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Draw Nine|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dream Aflame|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -566,6 +568,9 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Extreme Mining|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Eye Candy 2 Artpack|PC|Humble Bundle|
 |Eye of Ra|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Eye of the Beholder III: Assault on Myth Drannor|PC|GOG|
+|Eye of the Beholder|PC|GOG|
+|Eye of the Heholder II: The Legend of Darkmoon|PC|GOG|
 |FEZ Soundtrack|PC|Humble Bundle|
 |FEZ|PC|Steam|
 |FIFA 15|PS4|Physical|
@@ -649,6 +654,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |GRINDSTONE (Original Game Soundtrack)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GRIPHOTIKON - BOOK 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GUNPIG: Firepower For Hire|PC|itch.io (Bundle for Racial Justice and Equality)|
+|GWENT: The Witcher Card Game|PC|GOG|
 |Galactic Wars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Galaxy Goons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Gambol|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1027,6 +1033,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Metamorphabet|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metori|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metro: 2033 Redux|PC|Epic|
+|Metro: Last Light Redux|PC|GOG|
 |MewnBase|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Miasma Caves|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Michtim: Fluffy Adventures|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1804,6 +1811,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Whisperer in Darkness|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The White Door|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Wind Began to Howl|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Witcher: Enhanced Edition|PC|GOG|
 |The Witches Tea Party (Light Version)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Wizard: Original Soundtrack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Wolf's Bite|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1865,6 +1873,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Trash wars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Trawl|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Treachery In Beatdown City|PC|Amazon Games|
+|Treasure Adventure Game|PC|GOG|
 |Tricksters|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Troika! Numinous Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tropico 5|PC|Epic|
@@ -1878,7 +1887,9 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Tutorial: Versatile InDesign Book Covers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Two Years of Mini-RPGs, 2017—2019|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tyranny - Gold Edition|PC|Epic|
+|Tyrian 2000|PC|GOG|
 |U.F.O - Unfortunately Fortunate Organisms|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Ultima 4: Quest of the Avatar|PC|GOG|
 |Un Pas Fragile|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Uncharted 4: A Thief's End|PS4|Physical|
 |Uncharted The Nathan Drake Collection|PS4|Physical|
@@ -1949,8 +1960,10 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Warframe|PC|Steam|
 |Warframe|PS4|Digital|
 |Warframe|Switch|Digital|
+|Warhammer 40,000: Rites of War|PC|GOG|
 |Warm Then Hot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Warsaw|PC|Amazon Games|
+|Warsow|PC|GOG|
 |Watch Dogs 2|PC|Epic|
 |Watch Me Jump|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wave to the People|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -2001,6 +2014,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |World Maker|PC|itch.io (Bundle for Racial Justice and Equality)|
 |World of Warships|PC|Steam|
 |Worlds Without Master Issue 3|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Worlds of Ultima: The Savage Empire|PC|GOG|
 |Woter-a tale of two water cans - Game jam demo|PC|itch.io (Bundle for Racial Justice and Equality)|
 |WretchWorks Arcade Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wretched Wasteland|PC|itch.io (Bundle for Racial Justice and Equality)|
