@@ -878,6 +878,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Journey|PS3|Digital|
 |Jumpin' Jupiter : Prelude|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Jupitron Game Collection Vol.1|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Jurassic World Evolution|PC|Epic|
 |Just Another Day at the Office|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Just Rain|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Just one, must choose|PC|itch.io (Bundle for Racial Justice and Equality)|
