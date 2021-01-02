@@ -1640,6 +1640,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Swarm Racer 3000|PC|Humble Bundle|
 |Sweet Volley High (All Ages ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Switch 'N' Shoot|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sword Legacy Omen|PC|Amazon Games|
 |Swords Pack x6|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Swords and Daggers Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Swung|PC|itch.io (Bundle for Racial Justice and Equality)|
