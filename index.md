@@ -96,6 +96,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Akurra (Chapter 1)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Akuto: Showdown|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alfal's Grove|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Algo Bot|PC|Amazon Games|
 |Alien Life Lab|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alien Swam|PC|Steam|
 |Alien: Isolation|PC|Epic|
@@ -104,6 +105,8 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Alone With Your Ghost|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alone by Distant Shores|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Alone in the Ancient City|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Along the Edge|PC|Amazon Games|
+|Alt Frequencies|PC|Amazon Games|
 |Ambidangerous|PC|itch.io (Bundle for Racial Justice and Equality)|
 |American Election|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Amnesia: A Machine for Pigs|PC|Epic|
@@ -256,6 +259,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Breakout Poetry|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brendan Keogh's Putting Challenge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brick Breaker Remix|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Bridge Constructor Playground|PC|Amazon Games|
 |Bridge Constructor: Medieval|PC|Amazon Games|
 |Bridge Constructor|PC|Amazon Games|
 |Brinkwood - The Blood of Tyrants - Playtest Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -376,6 +380,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Croissants|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cromwell|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crossing the Seven Stars|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Crying Suns|PC|Epic|
 |Crystal Control II|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crystal Story: Awakening|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crystal Towers 2|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -383,6 +388,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Cubefall|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cuckoo Castle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Curse of the Crescent Isle DX|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Cyber Hook|PC|Amazon Games|
 |Cyborgs & Cigarettes|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cycle 28|PC|itch.io (Bundle for Racial Justice and Equality)|
 |D.M.T|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -404,6 +410,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Daily Chthonicle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Damn the Man, Save the Music!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dancing with Demons|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Dandara: Trials of Fear Edition|PC|Epic|
 |Danger Crew|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Danger Zone Friends|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dark Devotion|PC|Amazon Games|
@@ -655,6 +662,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |GRIPHOTIKON - BOOK 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GUNPIG: Firepower For Hire|PC|itch.io (Bundle for Racial Justice and Equality)|
 |GWENT: The Witcher Card Game|PC|GOG|
+|Galactic Civilizations III|PC|Epic|
 |Galactic Wars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Galaxy Goons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Gambol|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -957,6 +965,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Like Skyscrapers Blotting Out The Sun|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lil' Dragon - Pixel Art Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lingotopia|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Little Big Workshop|PC|Amazon Games|
 |Little Bug (full version)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Little Cells|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Little Comet|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1576,6 +1585,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Stand Up|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Standoff|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Star Escape|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Star Wars Battlefront II: Celebration Edition|PC|Epic|
 |Star Wars Battlefront|PS4|Physical|
 |Star Wars Jedi Knight II: Jedi Outcast|Switch|Digital|
 |Star and Light 1.0|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1931,6 +1941,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Vision Soft Reset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Visual Out|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Viv and Bob|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Void Bastards|PC|Amazon Games|
 |Void Runner|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Void Wisp|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Voles of the Dusk|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1981,6 +1992,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |What happened to Survey Team 4?|PC|itch.io (Bundle for Racial Justice and Equality)|
 |What's a Vaporwave|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Wheels of Aurelia|PC|itch.io (Bundle for Racial Justice and Equality)|
+|When Ski Lifts Go Wrong|PC|Amazon Games|
 |When You Meet Your Doppelganger on the Road, You Must Make Out With Them|PC|itch.io (Bundle for Racial Justice and Equality)|
 |When the Messages Began|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Where The Water Tastes Like Wine|PC|Epic|
