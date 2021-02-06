@@ -625,6 +625,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Football Drama|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Football Manager 2020|PC|Epic|
 |For The Honor|PC|itch.io (Bundle for Racial Justice and Equality)|
+|For The King|PC|Epic|
 |For the Dungeon!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Forever Lost: Episode 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Forever Lost: Episode 2|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1043,6 +1044,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Metamorphabet|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metori|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Metro: 2033 Redux|PC|Epic|
+|Metro: Last Light Redux|PC|Epic|
 |Metro: Last Light Redux|PC|GOG|
 |MewnBase|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Miasma Caves|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1074,6 +1076,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Monster Hunter: World Beta|PS4|Digital|
 |Monster Jaunt|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Monster Match|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Monster Prom: Hotseat Edition|PC|Amazon Games|
 |Monster Pub Chapter 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Monster Pub Chapter 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Monster Pub Chapter 3|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1567,6 +1570,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Spellbreak|PC|Epic|
 |Spellchitects!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Spelunky|PS4|Digital|
+|Spinch|PC|Amazon Games|
 |Spirits of Xanadu|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Splinter Zone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Split/Second Ryback Cyclone Special Edition (Add-on)|PS3|Digital|
@@ -1597,6 +1601,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Stars Die|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Starseed Pilgrim|PC|Steam|
 |Steal This Game! Rebels & Renegades|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Stealth Bastard Deluxe|PC|Amazon Games|
 |Stealth Fishing|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Steam Marines 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Steam Marines|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1612,6 +1617,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Story of Seasons|3DS|Physical|
 |Stranded Deep|PC|Epic|
 |Stranger Things 3: The Game|PC|Epic|
+|Strata|PC|Amazon Games|
 |Strike! RPG: Tactical Combat and Heedless Adventure|PC|itch.io (Bundle for Racial Justice and Equality)|
 |String Tyrant|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Subterrarium|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1649,6 +1655,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Sverdheim|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Swarm Racer 3000|PC|Humble Bundle|
 |Sweet Volley High (All Ages ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Swimsanity! – Couch Party Edition|PC|Amazon Games|
 |Switch 'N' Shoot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sword Legacy Omen|PC|Amazon Games|
 |Swords Pack x6|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1671,6 +1678,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |TROVE|PS4|Digital|
 |TTRPG Design Lenses|PC|itch.io (Bundle for Racial Justice and Equality)|
 |TV Guide|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Table Manners|PC|Amazon Games|
 |Tabletop Archaeology 101|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Taco Tom 2|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tacoma|PC|Epic|
