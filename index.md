@@ -85,6 +85,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Abomination Tower|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Above: The Fallen|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Adventurer & Troll|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Adventures of Chris|PC|Amazon Games|
 |Adventures of a Radish(Full)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Aerannis|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Affection Game (print & play version)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -741,6 +742,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |HUGE pixelart asset pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Haiduc|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hair Dash|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Halcyon 6 Starbase Commander|PC|Epic|
 |Half-Life 2: Lost Coast|PC|Steam|
 |Half-Life 2|PC|Steam|
 |Halloween Forever|PC|itch.io (Bundle for Racial Justice and Equality)|
