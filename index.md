@@ -84,6 +84,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |ART SQOOL|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Abomination Tower|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Above: The Fallen|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Absolute Drift|PC|Epic|
 |Adventurer & Troll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Adventures of Chris|PC|Amazon Games|
 |Adventures of a Radish(Full)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1358,6 +1359,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |RPM - Rage's Platformer Movement Plus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |RYB|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Radical Solitaire|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Rage 2|PC|Epic|
 |Raik|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Railway Empire|PC|Epic|
 |Rainbow World|PC|itch.io (Bundle for Racial Justice and Equality)|
