@@ -1630,6 +1630,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Summer Garden Set|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sun Dogs|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sundown|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sunless Sea|PC|Epic|
 |Super Bernie World|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Super Crome: Bullet Purgatory|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Super Dunkman|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1706,6 +1707,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Test Tube Titans|PC|itch.io (Bundle for Racial Justice and Equality)|
 |That Puzzle Game Everyone Knows|PC|itch.io (Bundle for Racial Justice and Equality)|
 |That Which Binds Us|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Academy: First Riddle|PC|Amazon Games|
 |The Adventures of Elena Temple: Definitive Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Adventures of Yulpers! Soundtrack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Alabaster Donut Farm|PC|itch.io (Bundle for Racial Justice and Equality)|
