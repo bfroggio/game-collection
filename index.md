@@ -226,6 +226,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Blade-Kissed|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blades in the Dark|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blair Witch|PC|Epic|
+|Blasphemous|PC|Amazon Games|
 |Blast Rush|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blaster Bunny +|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Blasting Agent: Ultimate Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -244,6 +245,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Boa Retina|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bold Blade|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bomb Dolls|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Bomber Crew Deluxe|PC|Amazon Games|
 |Bomsy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bonbon|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bonsai Brawlers!|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -252,6 +254,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Books & Bone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Boom Boom Bovine|PC|itch.io (Bundle for Racial Justice and Equality)|
 |BoomTown|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Boomerang Fu|PC|Amazon Games|
 |Borb the Birb|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Boreal Tenebrae Act I: “I Stand Before You,  A Form Undone”|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Braid|PC|Steam|
@@ -1523,6 +1526,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Silver Grapple|PC|itch.io (Bundle for Racial Justice and Equality)|
 |SilverQuest Gaiden|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Simply The Best|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sine Mora Ex|PC|Amazon Games|
 |Six Match|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Skeleton Song|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Skeletris|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1530,6 +1534,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Skin & Bones|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Skin Deep Bundle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sky Rogue|PC|itch.io (Bundle for Racial Justice and Equality)|
+|SkyDrift|PC|Amazon Games|
 |Skyfarer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Slam Fighter II|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Slayers (OLD)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1702,6 +1707,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Tempest|PC|Amazon Games|
 |Temple Scramble|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ten People You Meet In The Undergarden|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tengami|PC|Amazon Games|
 |Terri-Fried|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tessa's Ark: Chapter 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Test Tube Titans|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1987,6 +1993,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Warframe|PC|Steam|
 |Warframe|PS4|Digital|
 |Warframe|Switch|Digital|
+|Wargame: Red Dragon|PC|Epic|
 |Warhammer 40,000: Rites of War|PC|GOG|
 |Warm Then Hot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Warsaw|PC|Amazon Games|
