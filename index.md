@@ -1193,6 +1193,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |OneShot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Online Simulator|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Operation Penguin|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Optica|PC|Amazon Games|
 |Orbis - Throw them all!|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Orcs Must Die! Unchained|PS4|Digital|
 |Order A Pizza: A Visual Novel|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1661,10 +1662,12 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Surf World Series|PC|Amazon Games|
 |Surprise Mechanic: The Gaming Trivia|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Surreal Estate|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Surviving Mars|PC|Epic|
 |Sushi Master VR -  寿司職人VR -|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sverdheim|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Swarm Racer 3000|PC|Humble Bundle|
 |Sweet Volley High (All Ages ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Swimsanity! - Couch Party Edition|PC|Amazon Games|
 |Swimsanity! – Couch Party Edition|PC|Amazon Games|
 |Switch 'N' Shoot|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sword Legacy Omen|PC|Amazon Games|
