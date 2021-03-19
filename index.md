@@ -1755,6 +1755,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Escapists 2|PC|Epic|
 |The Estate of Baron Archambaud, an Ingrate|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Fall of Lazarus|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Fall|PC|Epic|
 |The Festival of Deep Winter|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Finest (there will be no music)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Flame In the Flood|PC|Amazon Games|
