@@ -379,6 +379,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Crashed Lander|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crate Punks|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crazy Cultists: The Devilishly Fun Game For The Whole Family!|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Creature in the Well|PC|Epic|
 |Crescent Loom|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Crest - an indirect god game|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Critical!: Go Westerly|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -564,6 +565,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Eris and Umbra|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Eros System: Core Rulebook|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Erth|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Escape Machine City: Airborne|PC|Amazon Games|
 |Escape from Life Inc|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Escaped Chasm|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Escort Yourself Out|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1748,6 +1750,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Cycle|PC|Epic|
 |The D1 RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Dark Below|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Dark Crystal: Age of Resistance Tactics|PC|Amazon Games|
 |The Dark by Eric Koziol|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Dastardly Dairy Debacle|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Death of the Corpse Wizard|PC|itch.io (Bundle for Racial Justice and Equality)|
