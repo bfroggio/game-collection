@@ -1080,6 +1080,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Mon-cuties for All|PC|itch.io (Bundle for Racial Justice and Equality)|
 |MonGirl Tile|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Monaco|PC|Steam|
+|Monster Hunter Rise|Switch|Digital|
 |Monster Hunter World: Iceborne|PS4|Digital|
 |Monster Hunter: World Beta|PS4|Digital|
 |Monster Jaunt|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1701,6 +1702,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Tales From Windy Meadow|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tales from Candlekeep: Tomb of Annihilation|PC|Amazon Games|
 |Tales from the Road|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tales of the Neon Sea|PC|Epic|
 |Talk To Me|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tallowmere|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tampalasan ALPHA|PC|itch.io (Bundle for Racial Justice and Equality)|
