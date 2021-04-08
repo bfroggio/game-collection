@@ -30,6 +30,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |24 Game Poems|PC|itch.io (Bundle for Racial Justice and Equality)|
 |2d flight simulator|PC|itch.io (Bundle for Racial Justice and Equality)|
 |3 Out of 10 Ep 1 Welcome to Shovelworks|PC|Epic|
+|3 out of 10: Season Two|PC|Epic|
 |36 Days A Week|PC|itch.io (Bundle for Racial Justice and Equality)|
 |3on3 Freestyle (NA)|PS4|Digital|
 |4-LEGGED-HEROINE|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -85,6 +86,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Abomination Tower|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Above: The Fallen|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Absolute Drift|PC|Epic|
+|Aces of the Luftwaffe - Squadron|PC|Amazon Games|
 |Adventurer & Troll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Adventures of Chris|PC|Amazon Games|
 |Adventures of a Radish(Full)|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -203,6 +205,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Beast Dream|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Beatbuddy: Tale of the Guardians|PC|Steam|
 |Bedtime Bestiary|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Before I Forget|PC|Amazon Games|
 |Before the Beginning|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Beglitched|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Behind the Magic|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1097,6 +1100,8 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Moonstone Deep|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Moss Creeps, Stone Crumbles|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mossy Mechanics!|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Move or Die - Couch Party Edition|PC|Amazon Games|
+|Moving Out|PC|Amazon Games|
 |Mr. Shifty|PC|Amazon Games|
 |Mu Cartographer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mud Runner|PC|Epic|
@@ -1758,6 +1763,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Death of the Corpse Wizard|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Deer God|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Escapists 2|PC|Epic|
+|The Escapists|PC|Amazon Games|
 |The Estate of Baron Archambaud, an Ingrate|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Fall of Lazarus|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Fall|PC|Epic|
