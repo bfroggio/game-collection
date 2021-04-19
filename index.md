@@ -448,6 +448,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Deeper Into Space|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Defense Grid: The Awakening|PC|Epic|
 |Democratic Socialism Simulator|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Deponia: The Complete Journey|PC|Epic|
 |Depth of Extinction|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Depths of Fear :: Knossos Soundtrack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Desastre Colectivo|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -477,6 +478,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Discsphere|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Disobedient Sheep|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Distortion Nation|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Do Not Feed the Monkeys|PC|Amazon Games|
 |Dogs Throwing Swords II: Three Barks To The Wind|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Dogurai|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Doki Doki Literature Club|PC|Steam|
@@ -874,6 +876,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Into the Sun|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Intrepid|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Inverness Nights|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Iris and the Giant|PC|Amazon Games|
 |Iron, Flax, & Bone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ironcast|PC|Amazon Games|
 |Ironclad|PC|Amazon Games|
@@ -912,6 +915,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Kawaii Game Icons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Keep It Together|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Keeping the Lights On|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Ken Follett's The Pillars of the Earth|PC|Epic|
 |Kenney Game Assets 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |KeyCars|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Kill Strain™|PS4|Digital|
@@ -1769,6 +1773,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Fall|PC|Epic|
 |The Festival of Deep Winter|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Finest (there will be no music)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The First Tree|PC|Epic|
 |The Flame In the Flood|PC|Amazon Games|
 |The Floor is Jelly|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Fool's Journey|PC|itch.io (Bundle for Racial Justice and Equality)|
