@@ -759,6 +759,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Halloween Forever|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Halloween Game Icons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hammer Bomb|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Hand of Fate 2|PC|Epic|
 |Haque|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hardship River|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Harvest Moon 3D: The Tale of Two Towns|3DS|Physical|
