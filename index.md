@@ -620,6 +620,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Feud|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fidelity|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fighting Monsters|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Figment|PC|Amazon Games|
 |Figment|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Final Lap|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fire Emblem: Three Houses|Switch|Digital|
@@ -847,6 +848,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |INDECT|PC|itch.io (Bundle for Racial Justice and Equality)|
 |ISLANDS: Non-Places|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Idioctopus|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Idle Champions of the Forgotten Realms|PC|Epic|
 |Ikigai : One Tiny Life|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Il Filo Conduttore|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Image of Perfection|PC|itch.io (Bundle for Racial Justice and Equality)|
