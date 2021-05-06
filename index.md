@@ -46,6 +46,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |99¢ Chamber of Death|PC|itch.io (Bundle for Racial Justice and Equality)|
 |>>at least you're not alone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |>observer_|PC|Amazon Games|
+|A Blind Legend|PC|Amazon Games|
 |A Day in the Woods|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Duet of Steel|PC|itch.io (Bundle for Racial Justice and Equality)|
 |A Game of Changes|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -210,6 +211,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Beglitched|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Behind the Magic|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Behind the Masc|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Beholder|PC|Amazon Games|
 |Believe|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Belong|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Beneath a Steel Sky|PC|GOG|
@@ -544,6 +546,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Ecchi Sketch: Draw Cute Girls Every Day! (All Ages Ver)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Echoes of the Fey Episode 1: The Fox's Trail|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Echoes|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Edgar - Bokbok in Boulzac|PC|Amazon Games|
 |Effie|PC|Amazon Games|
 |Eizoku|PC|itch.io (Bundle for Racial Justice and Equality)|
 |El Interrogatorio|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -775,6 +778,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Head or Tales|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Headliner: NoviNews|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Headspun: Dazed Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Healer's Quest|PC|Amazon Games|
 |Heart Full Of Trash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Heart and Lightning|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Heartbreak High: A Break-Up Simulator|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1295,6 +1299,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Pillars of Dust|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pillars of Eternity - Definitive Edition|PC|Epic|
 |Pin Puck|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Pine|PC|Epic|
 |Pixel Art Infinite Runner - Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pixel Art Medieval Fantasy Characters Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Pixel Art Platformer Painted Style|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1745,6 +1750,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Big Wave: Colorblind & Deaf Friendly Puzzle Game|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Binding And Drawing Of Power|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Binding of Isaac OST|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Blind Prophet|PC|Amazon Games|
 |The Blue Flamingo|PC|Steam|
 |The Bonds That Tie Us|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Bookshelf|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -2083,6 +2089,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Year after Year|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yi and the Thousand Moons|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Yokai Hunters Society|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Yoku's Island Express|PC|Amazon Games|
 |Yooka Laylee and the Impossible Lair|PC|Amazon Games|
 |Yooka Laylee|PC|Amazon Games|
 |You Died but a Necromancer revived you|PC|itch.io (Bundle for Racial Justice and Equality)|
