@@ -251,6 +251,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Bold Blade|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bomb Dolls|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bomber Crew Deluxe|PC|Amazon Games|
+|Bombslinger|PC|Amazon Games|
 |Bomsy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bonbon|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bonsai Brawlers!|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -614,6 +615,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Fantom Feast|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Far From Home|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Far from Noise|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Faraway: Director's Cut|PC|Amazon Games|
 |Farming RPG GUI|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fat Bear Week|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fatal Fury Special|PC|Amazon Games|
@@ -1814,6 +1816,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Last Librarian|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Last of Us Remastered|PS4|Physical|
 |The Legend of Zelda: Breath of the Wild|Switch|Digital|
+|The Lion's Song|PC|Epic|
 |The Long Dark|PC|Epic|
 |The Lost Art of Innkeeping|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Love Balloon|PC|itch.io (Bundle for Racial Justice and Equality)|
