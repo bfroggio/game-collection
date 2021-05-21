@@ -1039,6 +1039,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Make It Last|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Make your Adventure|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mall Kids|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Mana Spark|PC|Amazon Games|
 |Manna for our Malices|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Manual Intervention|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Marie's Room|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1134,6 +1135,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Mythic Mortals|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mythos: Reawakening|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mythtaken|PC|itch.io (Bundle for Racial Justice and Equality)|
+|NBA 2K21|PC|Epic|
 |NEXT JUMP: Shmup Tactics|PC|itch.io (Bundle for Racial Justice and Equality)|
 |NIGHT OF THE CONSUMERS|PC|itch.io (Bundle for Racial Justice and Equality)|
 |NO THING|PC|itch.io (Bundle for Racial Justice and Equality)|
