@@ -563,6 +563,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Elite Dangerous: Horizons|PC|Epic|
 |Elite Dangerous: Horizons|PC|Steam|
 |Elite Dangerous: Horizons|PS4|Digital|
+|Elite Dangerous: Odyssey|PC|Steam|
 |Ellipses RPG|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Embedded Heart|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Emberlight|PC|itch.io (Bundle for Racial Justice and Equality)|
