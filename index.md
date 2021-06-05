@@ -115,6 +115,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Ambidangerous|PC|itch.io (Bundle for Racial Justice and Equality)|
 |American Election|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Amnesia: A Machine for Pigs|PC|Epic|
+|Among Us|PC|Epic|
 |An Airport Game|PC|itch.io (Bundle for Racial Justice and Equality)|
 |An American Werewolf in LA (EN)|PC|itch.io (Bundle for Racial Justice and Equality)|
 |An anthology of cozy RPGs|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -181,6 +182,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |BALIKBAYAN: Returning Home|PC|itch.io (Bundle for Racial Justice and Equality)|
 |BALL BUSTER|PC|itch.io (Bundle for Racial Justice and Equality)|
 |BEACON|PC|itch.io (Bundle for Racial Justice and Equality)|
+|BFF or Die|PC|Amazon Games|
 |BFF or Die|PC|itch.io (Bundle for Racial Justice and Equality)|
 |BIT RAT : Singularity|PC|itch.io (Bundle for Racial Justice and Equality)|
 |BOTOLO|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -198,7 +200,9 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Barrel Roll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Baseball Stars 2|PC|Amazon Games|
 |BasketBelle|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Batman - The Telltale Series|PC|Amazon Games|
 |Battlefield 3|PC|Origin|
+|Battlefield 4|PC|Origin|
 |Bazookrash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear Acquaintances|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bear-ly There|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -661,8 +665,10 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Four Sided Fantasy|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Freelancers|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Friendly Neighborhood Superhero|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Frog Climbers|PC|Amazon Games|
 |From Orbit|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fronds of Benevolence|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Frostpunk|PC|Epic|
 |Fugue in Void|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Fugue|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Full of Memory & Anger|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1007,6 +1013,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Loot Rascals|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Lost Horizon|PC|Amazon Games|
 |Lost in Dark Halls (Forking Paths #2)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Lost in Harmony|PC|Amazon Games|
 |Lost in the Grey|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Love Hues! [Full Game]|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Love by the Quarter Mile|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1119,6 +1126,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Mr. Shifty|PC|Amazon Games|
 |Mu Cartographer|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mud Runner|PC|Epic|
+|Mugsters|PC|Amazon Games|
 |Multi Platformer Tileset|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Mutiny Island|PC|itch.io (Bundle for Racial Justice and Equality)|
 |My Brain Is A Stick Of Butter|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1154,6 +1162,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |NeuroVoider|PC|Amazon Games|
 |Never Knows Best: Ashcan Edition|PC|itch.io (Bundle for Racial Justice and Equality)|
 |New Ice York|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Newfound Courage|PC|Amazon Games|
 |Newfound Courage|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Next Up Hero|PC|Epic|
 |Ni No Kuni II Revenant Kingdom|PS4|Physical|
@@ -1606,6 +1615,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Spelunky|PS4|Digital|
 |Spinch|PC|Amazon Games|
 |Spirits of Xanadu|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Spitkiss|PC|Amazon Games|
 |Splinter Zone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Split/Second Ryback Cyclone Special Edition (Add-on)|PS3|Digital|
 |Split/Second The Elite Vehicle Livery (Add-on)|PS3|Digital|
