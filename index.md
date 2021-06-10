@@ -374,6 +374,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Come Home|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Concentric|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Construct 2/3 Pseudo 3D (with playable example)|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Control|PC|Epic|
 |Conversations With Emma|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Conversations With My Anxiety|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Cook, Serve, Delicious! 2!!|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -705,6 +706,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Geese At The Beach: Creatures Tasked With Collecting Things For The Feathery Overlord|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Generic RPG Starter Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Genesis Alpha One Deluxe Edition|PC|Amazon Games|
+|Genshin Impact|PC|Epic|
 |Genshin Impact|PC|miHoYo|
 |Gentleman Bandit - Western Cantos I|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Germination|PC|itch.io (Bundle for Racial Justice and Equality)|
