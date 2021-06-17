@@ -797,6 +797,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Heavy Bullets|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hedera|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Helium Rain|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Hell is other demons|PC|Epic|
 |HellStar Squadron|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hellenica|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hello Charlotte EP2: Requiem Aeternam Deo|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1249,6 +1250,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Outpost Horizon Station|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Over Run|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Over the Moon|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Overcooked! 2|PC|Epic|
 |Overcooked|PC|Amazon Games|
 |Overcooked|PC|Epic|
 |Overland|PC|itch.io (Bundle for Racial Justice and Equality)|
