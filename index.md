@@ -832,6 +832,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Hooks And Shotguns|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hootgoblins|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hope's Peak|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Horizon Chase Turbo|PC|Epic|
 |Hot Pot Panic|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hotel Paradise|PC|itch.io (Bundle for Racial Justice and Equality)|
 |House of Cards: A Modern Fantasy Story Game|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1598,6 +1599,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Some Small Games|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sonar Smash|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Songbirds - Core Rulebook|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Sonic Mania|PC|Epic|
 |Sorbetta: Gravely in Debt|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Sound Effects: Reptiles and more|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Soundodger+|PC|itch.io (Bundle for Racial Justice and Equality)|
