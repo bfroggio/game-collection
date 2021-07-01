@@ -1869,6 +1869,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Space Between|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Spark of One|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Spectrum Retreat|PC|Amazon Games|
+|The Spectrum Retreat|PC|Epic|
 |The Spirit of Small Gifts|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Stars Whisper|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Steadfast and the Rebellious|PC|itch.io (Bundle for Racial Justice and Equality)|
