@@ -808,6 +808,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Hero Too|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Hero-ing Addict|PC|itch.io (Bundle for Racial Justice and Equality)|
 |HeroRun|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Heroes of the Storm|PC|Blizzard|
 |Heroic Asset Series: Buildings Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Heroic Asset Series: Creature Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Heroic Asset Series: Icon Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
