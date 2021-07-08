@@ -172,6 +172,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Audiosurf|PC|Steam|
 |Aurion: Legacy of the Kori-Odan|PC|Amazon Games|
 |Aurora|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Automachef|PC|Amazon Games|
 |Autonauts|PC|Amazon Games|
 |Autumn|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Avery Chase - EP1 : Apparition|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -200,6 +201,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Barrel Roll|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Baseball Stars 2|PC|Amazon Games|
 |BasketBelle|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Batman - The Enemy Within|PC|Amazon Games|
 |Batman - The Telltale Series|PC|Amazon Games|
 |Battlefield 3|PC|Origin|
 |Battlefield 4|PC|Origin|
@@ -275,6 +277,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Brendan Keogh's Putting Challenge|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Brick Breaker Remix|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Bridge Constructor Playground|PC|Amazon Games|
+|Bridge Constructor The Walking Dead|PC|Epic|
 |Bridge Constructor: Medieval|PC|Amazon Games|
 |Bridge Constructor|PC|Amazon Games|
 |Brinkwood - The Blood of Tyrants - Playtest Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -900,6 +903,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Iris and the Giant|PC|Amazon Games|
 |Iron, Flax, & Bone|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Ironcast|PC|Amazon Games|
+|Ironcast|PC|Epic|
 |Ironclad|PC|Amazon Games|
 |Ironsworn: Delve|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Isolation Story|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1357,6 +1361,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |PolyToon  Medieval Character Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |PolyToon Dungeon Props and Tileset Pack|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Polymute|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Portal Dogs|PC|Amazon Games|
 |Portal Dogs|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Portal|PC|Steam|
 |Possession|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1394,6 +1399,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Quench|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Quible Sphere|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Quiet as a Stone|PC|itch.io (Bundle for Racial Justice and Equality)|
+|RAD|PC|Amazon Games|
 |RESPITE 2.0|PC|itch.io (Bundle for Racial Justice and Equality)|
 |RISK SYSTEM|PC|itch.io (Bundle for Racial Justice and Equality)|
 |RPG Farming Kit|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1741,6 +1747,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |Tales From Windy Meadow|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tales from Candlekeep: Tomb of Annihilation|PC|Amazon Games|
 |Tales from the Road|PC|itch.io (Bundle for Racial Justice and Equality)|
+|Tales of the Neon Sea|PC|Amazon Games|
 |Tales of the Neon Sea|PC|Epic|
 |Talk To Me|PC|itch.io (Bundle for Racial Justice and Equality)|
 |Tallowmere|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1865,6 +1872,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Sailor and the Siren|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Sealed Library|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Search|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Secret of Monkey Island: Special Edition|PC|Amazon Games|
 |The Secret of Tremendous Corporation|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Sleuth|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Space Between|PC|itch.io (Bundle for Racial Justice and Equality)|
@@ -1890,6 +1898,7 @@ I have [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass) in a
 |The Trolley|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Twine® Grimoire, Vol. 1|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Valley of Super Flowers|PC|itch.io (Bundle for Racial Justice and Equality)|
+|The Wanderer: Frankenstein's Creature|PC|Amazon Games|
 |The Warlock - A Dungeon World Playbook|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Watching Book|PC|itch.io (Bundle for Racial Justice and Equality)|
 |The Way You Make Me Feel|PC|itch.io (Bundle for Racial Justice and Equality)|
